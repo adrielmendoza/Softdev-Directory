@@ -11,6 +11,7 @@ A blogging website. Users may create an account and construct blog posts which t
 #### Adriel Mendoza, Sappha O'Meary
 #### Description
 A website that utilizes APIs to generate albums using songs, google images, and tumblr posts. (in progress)
+#### https://github.com/adrielmendoza/Crescendo.git
 ## Mini-Projects
 - First Jinja2/Flask Website
   - Adriel Mendoza, Anish Malhotra
