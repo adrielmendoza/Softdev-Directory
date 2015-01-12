@@ -2,10 +2,11 @@
 # Fall Semester
 Period 5
 ## Main Projects
-### Unnamed Final Project
+### Flockcursor
 #### Adriel Mendoza, Cindy Wu, Christopher Wennedy, Zi Wei Ye
 #### Description
 A canvas based project.
+#### https://github.com/Yuzhno/Flockcursor.git
 ### Anathema
 #### Adriel Mendoza, Abrar Ahmed, Nathaniel Brassell, Jesicca Ng
 #### Description
